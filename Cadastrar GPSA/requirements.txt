@@ -1,0 +1,4 @@
+selenium==4.20.0
+python-dotenv==1.0.1
+smartsheet-python-sdk==3.0.3
+schedule==1.2.1
