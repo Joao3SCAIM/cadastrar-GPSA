@@ -36,7 +36,6 @@ COL_INTERVALO = int(os.getenv('COL_INTERVALO'))
 dotenv_path_login = r"C:\Users\Administrator\gpssa.com.br\DashboardBriansilva - Automacoes - Documentos\TIP\.env"
 load_dotenv(dotenv_path_login)
 
-
 LOGIN_USER = os.getenv('USER_PORTAL_FERNANDO')
 LOGIN_PASS = os.getenv('SENHA_PORTAL_FERNANDO')
 
